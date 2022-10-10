@@ -1,4 +1,4 @@
-- 👋  Olá eu sou o Ricardo Pires 
+- Olá eu sou o Ricardo Pires 
 - Estudando Java
 
 
